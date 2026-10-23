@@ -18,5 +18,6 @@ TMDB 5000 Movie Dataset from Kaggle.
 ## How to Run
 ```bash
 pip install -r requirements.txt
+project demo link: https://drive.google.com/file/d/1DugSQCsuk0hKaQz4FBrbo6QnUolMEVsc/view?usp=sharing
 streamlit run app.py
 ```
