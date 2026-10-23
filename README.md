@@ -5,7 +5,7 @@ This project uses Python libraries to recommend movies based on the user's selec
 ## Technologies Used
 - Python
 - Pandas
-- Scikit-learn
+- Scikit-learn==1.8.0
 - Streamlit
 - NLTK
 
